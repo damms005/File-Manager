@@ -1,0 +1,11 @@
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.MainForm.resources
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.messenger.resources
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.Properties.Resources.resources
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.Resource1.resources
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.csproj.GenerateResource.Cache
+C:\SharpDevelop Projects\MyTools\Orderer\bin\Debug\Orderer.exe.config
+C:\SharpDevelop Projects\MyTools\Orderer\bin\Debug\Orderer.exe
+C:\SharpDevelop Projects\MyTools\Orderer\bin\Debug\Orderer.pdb
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.exe
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.pdb
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\SharpDevelop Projects\MyTools\LineRemover\bin\Debug\LineRemover.exe.config
+C:\SharpDevelop Projects\MyTools\LineRemover\bin\Debug\LineRemover.exe
+C:\SharpDevelop Projects\MyTools\LineRemover\bin\Debug\LineRemover.pdb
+C:\SharpDevelop Projects\MyTools\LineRemover\obj\Debug\LineRemover.MainForm.resources
+C:\SharpDevelop Projects\MyTools\LineRemover\obj\Debug\LineRemover.Properties.Resources.resources
+C:\SharpDevelop Projects\MyTools\LineRemover\obj\Debug\LineRemover.csproj.GenerateResource.Cache
+C:\SharpDevelop Projects\MyTools\LineRemover\obj\Debug\LineRemover.exe
+C:\SharpDevelop Projects\MyTools\LineRemover\obj\Debug\LineRemover.pdb
+C:\SharpDevelop Projects\MyTools\LineRemover\obj\Debug\LineRemover.csprojResolveAssemblyReference.cache
+C:\SharpDevelop Projects\MyTools\LineRemover\obj\Debug\LineRemover.messenger.resources

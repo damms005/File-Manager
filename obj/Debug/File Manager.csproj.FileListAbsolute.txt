@@ -1,0 +1,22 @@
+C:\SharpDevelop Projects\MyTools\Orderer\bin\Debug\File Manager.exe.config
+C:\SharpDevelop Projects\MyTools\Orderer\bin\Debug\File Manager.exe
+C:\SharpDevelop Projects\MyTools\Orderer\bin\Debug\File Manager.pdb
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.MainForm.resources
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.messenger.resources
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.Properties.Resources.resources
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\Orderer.Resource1.resources
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\File Manager.csproj.GenerateResource.Cache
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\File Manager.exe
+C:\SharpDevelop Projects\MyTools\Orderer\obj\Debug\File Manager.pdb
+C:\SharpDevelop Projects\MyTools\File Manager\bin\Debug\File Manager.exe.config
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\File Manager.exe
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\File Manager.pdb
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\File_manager.MainForm.resources
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\File_manager.messenger.resources
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\File_manager.Properties.Resources.resources
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\File_manager.Resource1.resources
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\WindowsFormsApplication1.testForm.resources
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\File Manager.csproj.GenerateResource.Cache
+C:\SharpDevelop Projects\MyTools\File Manager\bin\Debug\File Manager.exe
+C:\SharpDevelop Projects\MyTools\File Manager\bin\Debug\File Manager.pdb
+C:\SharpDevelop Projects\MyTools\File Manager\obj\Debug\File Manager.csprojResolveAssemblyReference.cache
